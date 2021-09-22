@@ -10,6 +10,7 @@
   - Os builds inferiores a 18362 não dão suporte a WSL 2.
 
 - Uma máquina compatível com virtualização (verifique a disponibilidade de acordo com a marca do seu  processador. Se sua máquina for mais antiga pode ser necessária habilita-la na BIOS).
+  - Ativar em recursos do windows: **Plataforma de Máquina Virtual**
 
 - Pelo menos 4GB de memória RAM.
 
